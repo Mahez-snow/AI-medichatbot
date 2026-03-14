@@ -11,10 +11,13 @@ genai.configure(api_key=GEMINI_API_KEY)
 model_ai = genai.GenerativeModel("models/gemini-2.5-flash")
 
 #  LOAD ML MODELS
-
 # RAW GitHub file URLs
-MODEL_URL = "https://github.com/Mahez-snow/AI-medichatbot/blob/main/disease_model.pkl"
-SYMPTOM_URL = "https://github.com/Mahez-snow/AI-medichatbot/blob/main/symptom_list.pkl"
+MODEL_URL = (
+    "https://raw.githubusercontent.com/Mahez-snow/AI-medichatbot/main/disease_model.pkl"
+)
+SYMPTOM_URL = (
+    "https://raw.githubusercontent.com/Mahez-snow/AI-medichatbot/main/symptom_list.pkl"
+)
 
 try:
     # Download model file
