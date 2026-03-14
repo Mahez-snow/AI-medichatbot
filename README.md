@@ -3,8 +3,8 @@
 
 NovaCure-AI is an intelligent healthcare chatbot that integrates **Machine Learning**, **Natural Language Processing**, and **Generative AI** to provide structured medical insights through an interactive web interface.
 
-🔗 Live Application: https://healthcarechatbotai-g.streamlit.app/  
-📂 GitHub Repository: [https://github.com/nandinidevi3717/healthcare_chatbot_AI](https://github.com/Mahez-snow/AI-medichatbot/tree/main)  
+🔗 Live Application: [[https://healthcarechatbotai-g.streamlit.app/](https://ai-medichatbot.streamlit.app/)]
+📂 GitHub Repository: [[https://github.com/nandinidevi3717/healthcare_chatbot_AI](https://github.com/Mahez-snow/AI-medichatbot/tree/main)] 
 
 ---
 
